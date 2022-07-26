@@ -22,8 +22,9 @@ This is a Blog App build on Rails. It has a fully functional website that shows 
 
 ### Run
 
+To get a clone of the project, run 
 ```
-To get a clone of the project, run `git clone https://github.com/white3d/My-Blog-On-Rails.git`
+git clone https://github.com/white3d/My-Blog-On-Rails.git
 ```
 
 ```
