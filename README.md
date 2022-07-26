@@ -45,7 +45,7 @@ For more details, see [the Installation docs page](https://www.ruby-lang.org/en/
 
 - GitHub: [@whit3d](https://github.com/white3d)
 - Twitter: [@odhiambo_ed](https://twitter.com/odhiambo_ed)
-- LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo-6a462a21b/)
+- LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo/)
 
 ## 🤝 Contributing
 
