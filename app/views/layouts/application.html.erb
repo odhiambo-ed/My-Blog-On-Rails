@@ -15,9 +15,11 @@
   </head>
 
   <body>
-    <% render 'layouts/nav' %>
-    <main>
-      <%= yield %>
-    </main>
+    <div class="container-fluid">
+      <%= render 'layouts/nav' %>
+      <main>
+        <%= yield %>
+      </main>
+    </div>
   </body>
 </html>
